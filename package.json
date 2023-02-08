@@ -1,0 +1,22 @@
+{
+  "name": "demo-nodejs-npm",
+  "version": "1.0.0",
+  "description": "demo nodejs npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffrymahbuubi/demo-nodejs-npm.git"
+  },
+  "keywords": [
+    "demo-nodejs-npm"
+  ],
+  "author": "Aunuun Jeffry Mahbuubi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeffrymahbuubi/demo-nodejs-npm/issues"
+  },
+  "homepage": "https://github.com/jeffrymahbuubi/demo-nodejs-npm#readme"
+}
