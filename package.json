@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/jeffrymahbuubi/demo-nodejs-npm/issues"
   },
-  "homepage": "https://github.com/jeffrymahbuubi/demo-nodejs-npm#readme"
+  "homepage": "https://github.com/jeffrymahbuubi/demo-nodejs-npm#readme",
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "live-server": "^1.2.2",
+    "lodash": "^4.17.21"
+  }
 }
