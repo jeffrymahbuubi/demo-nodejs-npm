@@ -4,6 +4,7 @@
 
 - [lodash](https://lodash.com/)
 - [browserify](https://browserify.org/)
+- [live-server](https://github.com/tapio/live-server#readme)
 
 ## How To Use 🔧
 
