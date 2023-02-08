@@ -16,5 +16,5 @@ Install the dependencies using NPM
 $ npm install
 
 # Start the development server
-npm start
+$ npm run build
 ```
